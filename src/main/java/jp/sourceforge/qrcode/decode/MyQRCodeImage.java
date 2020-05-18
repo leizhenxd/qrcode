@@ -1,4 +1,4 @@
-package jp.sourceforge.qrcode.example;
+package jp.sourceforge.qrcode.decode;
 
 
 import java.awt.image.BufferedImage;
